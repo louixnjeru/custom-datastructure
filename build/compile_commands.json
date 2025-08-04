@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/louixnjeru/Documents/cpp-threads-1/build",
+  "command": "/usr/bin/clang++  -I/Users/louixnjeru/Documents/cpp-threads-1/include -g -std=gnu++17 -o CMakeFiles/main.dir/src/data_structure.cpp.o -c /Users/louixnjeru/Documents/cpp-threads-1/src/data_structure.cpp",
+  "file": "/Users/louixnjeru/Documents/cpp-threads-1/src/data_structure.cpp",
+  "output": "CMakeFiles/main.dir/src/data_structure.cpp.o"
+},
+{
+  "directory": "/Users/louixnjeru/Documents/cpp-threads-1/build",
+  "command": "/usr/bin/clang++  -I/Users/louixnjeru/Documents/cpp-threads-1/include -g -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/louixnjeru/Documents/cpp-threads-1/src/main.cpp",
+  "file": "/Users/louixnjeru/Documents/cpp-threads-1/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]
